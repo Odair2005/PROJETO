@@ -6,9 +6,9 @@ Vamos atuar como consultores de TI, ajudando uma empresa a modernizar ou escolhe
 Durante o processo, passaremos por várias etapas, desde entender as necessidades do cliente até criar materiais técnicos em equipe.
 
 MEMBROS:
-Caio 
+Caio Vitor dos Santos de Jesus
 Matheus 
-Odair
+Odair Cardoso dos Santos
 Robert
 
 LINK PARA O MAPA MENTAL:
