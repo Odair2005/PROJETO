@@ -6,10 +6,10 @@ Vamos atuar como consultores de TI, ajudando uma empresa a modernizar ou escolhe
 Durante o processo, passaremos por várias etapas, desde entender as necessidades do cliente até criar materiais técnicos em equipe.
 
 MEMBROS:
-Caio Vitor dos Santos de Jesus.
-Matheus Vinícius Ferreira Costa.
-Odair Cardoso dos Santos.
-Robert Sousa Miranda.
+Caio Vitor dos Santos de Jesus,
+Matheus Vinícius Ferreira Costa,
+Odair Cardoso dos Santos,
+Robert Sousa Miranda,
 
 LINK PARA O MAPA MENTAL:
 http://bit.ly/45seykc
