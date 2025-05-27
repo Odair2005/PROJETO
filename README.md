@@ -7,6 +7,7 @@ Durante o processo, passaremos por várias etapas, desde entender as necessidade
 
 MEMBROS:
 Caio Vitor dos Santos de Jesus,
+Lucas Freire Alves,
 Matheus Vinícius Ferreira Costa,
 Odair Cardoso dos Santos,
 Robert Sousa Miranda,
