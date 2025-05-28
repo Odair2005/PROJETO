@@ -14,15 +14,19 @@ Odair Cardoso dos Santos,
 Robert Sousa Miranda,
 
 LINK PARA O MAPA MENTAL:
+
+LINK PARA O POD CAST:
+
+LINK DO QUIZ:
 http://bit.ly/45seykc
-
-LINK PARA O POD CAST: 
-
+ 
 GITHUB DOS MEMBROS:
 
 (Caio) https://github.com/caiioz1903
 
 (Lucas) https://github.com/lucas010123
+
+(Matlheus)
 
 (Odair) https://github.com/Odair2005
 
