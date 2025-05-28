@@ -16,7 +16,7 @@ Robert Sousa Miranda,
 LINK PARA O MAPA MENTAL:
 http://bit.ly/45seykc
 
-LINK PARA O POD CAST:
+LINK PARA O POD CAST: 
 
 GITHUB DOS MEMBROS:
 (Caio) https://github.com/caiioz1903
