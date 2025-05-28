@@ -22,7 +22,7 @@ GITHUB DOS MEMBROS:
 
 (Lucas) https://github.com/lucas010123
 
-(Odair)
+(Odair) https://github.com/Odair2005
 
 (Robert) https://github.com/Robertsousa1
 
