@@ -13,9 +13,9 @@ Matheus Vinícius Ferreira Costa,
 Odair Cardoso dos Santos,
 Robert Sousa Miranda,
 
-LINK PARA O MAPA MENTAL:
+LINK DO MAPA MENTAL:
 
-LINK PARA O POD CAST:
+LINK DO POD CAST:
 
 LINK DO QUIZ:
 http://bit.ly/45seykc
