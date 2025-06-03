@@ -16,7 +16,6 @@ Robert Sousa Miranda,
 LINK DO MAPA MENTAL:
 
 LINK DO POD CAST:
-https://bit.ly/4mLDoBY
 
 LINK DO QUIZ:
 http://bit.ly/45seykc
