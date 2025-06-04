@@ -4,7 +4,8 @@ OBJETIVO:
 
 Esse projeto vai nos dar a oportunidade de aplicar na prática o que aprendemos na disciplina de Arquitetura de Computadores.
 Vamos atuar como consultores de TI, ajudando um usuario a modernizar o seu setup.
-Durante o processo, passaremos por várias etapas, desde entender as necessidades do cliente até criar materiais técnicos em equipe.
+Durante o processo, passaremos por várias etapas,
+desde entender as necessidades do cliente até criar materiais técnicos em equipe.
 
 MEMBROS:
 Caio Vitor dos Santos de Jesus,
