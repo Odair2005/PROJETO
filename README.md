@@ -14,8 +14,10 @@ Odair Cardoso dos Santos,
 Robert Sousa Miranda,
 
 LINK DO MAPA MENTAL:
+https://bit.ly/4dRelJJ
 
 LINK DO POD CAST:
+https://bit.ly/4kulYbw
 
 LINK DO QUIZ:
 http://bit.ly/45seykc
