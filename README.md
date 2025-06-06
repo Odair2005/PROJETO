@@ -35,9 +35,9 @@ Durante o processo, seguimos diversas etapas:
 
 ## 🔗 Links Importantes
 
-- 🧠 **Mapa Mental:** [Clique aqui](https://bit.ly/4dReIJJ)
-- 🎙️ **Podcast:** [Ouça aqui](https://bit.ly/4kulYbw)
-- ❓ **Quiz Interativo:** [Acesse aqui](http://bit.ly/45seykc)
+- 🧠 **Mapa Mental: https://bit.ly/4dRelJJ
+- 🎙️ **Podcast: https://bit.ly/4kulYbw
+- ❓ **Quiz Interativo: http://bit.ly/45seykc
 
 ---
 
